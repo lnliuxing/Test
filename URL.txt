@@ -1,0 +1,234 @@
+http://www.itdu.net/post/88.html XP32bit内存8G支持
+
+http://wenku.baidu.com/view/b4a01fd0b9f3f90f76c61ba0.html  硬盘容量改变
+
+http://wangqinqin.iteye.com/blog/547271  JDBC连接数据库
+
+http://blog.csdn.net/tina_j/article/details/9421483 JUnit详解
+
+%USERPROFILE%\Local Settings\Temp
+
+%SystemRoot%\TEMP
+
+http://coolshell.cn/articles/933.html加密
+
+http://wenwen.soso.com/z/q60178707.htm SQL中整形数的范围
+
+http://www.informationweek.com/the-38-subsystems-of-etl/55300422 ETL相关网站
+
+http://www.51fanli.com/landing_weibo.asp taobao网购
+
+http://java.chinaitlab.com/Spring/933897.html  java中byte,String,InputStream之间的转换问题
+
+http://wenku.baidu.com/link?url=ftIo9lisEYR7IhKnjMKb7pEoSrdfy7PAetcScV1Ype4eFms5H3b2FKZ0rLhwbIVHimmHxTC6e6odxaqf8N0-Vraf2GGhfemJnONh8IAh9rG linux压缩文件方法
+
+http://blessht.iteye.com/blog/1474002  数据库
+
+http://www.csdn.net/article/2014-01-21/2818207-an-insight-on-big-data	大数据整理：囊括分片、存储方法、扩展等多个方面	
+
+http://www.javaworld.com.tw/jute/post/view?bid=21&id=229972	执行多个PreparedStatement
+
+http://www.92csz.com/study/linux/12.htm  	shell
+http://blog.csdn.net/hudashi/article/details/6877351		shell
+
+http://blog.csdn.net/xiyuan1999/article/details/8160977		crontab定时功能
+
+http://sebug.net/paper/books/awk/		linux下awk命令
+
+http://sunxiaoji.baijia.baidu.com/article/4500		80后
+
+http://blog.csdn.net/wl_fln/article/details/7281986		shell中sed用法
+
+http://wenku.baidu.com/link?url=QIVGqkMB5O8wFv2v3IxS7RRNbfZZkieUOrkGq3qHAPIg6NtMVFB097HhTNJK6384IKVYDSLBmU9c2r6YPmAF5D4tvPByA0C8OJ3ayYQFBD_	     linux远程登录
+
+http://my.oschina.net/xunxun/blog/86781		cmake与make
+
+http://www.360doc.com/content/12/0507/10/9369336_209205930.shtml	cmake语法
+
+http://blog.csdn.net/aotian16/article/details/9859213	整数和byte之间转换
+
+http://www.lvye.cn/	http://www.517huwai.com/	旅游
+
+http://blog.csdn.net/ymeng_bupt/article/details/6826936	http://blog.csdn.net/ghsau/article/details/7461369	http://my.oschina.net/xianggao/blog/88477	http://www.cnblogs.com/hoojo/archive/2011/05/05/2038101.html 
+http://blog.csdn.net/huang_xw/article/details/7090177	http://blog.csdn.net/waldmer/article/details/12646953	java多线程加锁
+
+http://www.cppblog.com/suiaiguo/archive/2009/07/24/91045.html	c++多线程加锁
+
+http://www.cnblogs.com/egmkang/archive/2011/10/25/2224561.html?ADUIN=479179987&ADSESSION=1397017207&ADTAG=CLIENT.QQ.5311_.0&ADPUBNO=26327	C++运行时确保对象可读
+
+http://blog.sina.com.cn/s/blog_3d25e30f0100uubw.html	linux下通过JNI用C/C++中调用JAVA类
+
+http://tieba.baidu.com/p/2827912965	notebook
+
+http://wenku.baidu.com/link?url=X7vRlOPQJwPWw_xYpZ3eMhguvZP0MRoyo96NCdv3gnFUr-jbwOY9cLG_Rwo4SlFrvft473OyVpdUODNUccFHCzaZbbclobIJqEoWIw2RLKu			install	
+
+http://www.cnblogs.com/whgw/archive/2011/10/05/2199535.html	java单例模式	
+
+http://yicao200.blog.163.com/blog/static/4736256320081048152234/	linux c++编译
+
+http://goodchenqing.blog.163.com/blog/static/6407998201292074038303/	windows c++编译
+
+http://pardfox.blog.163.com/blog/static/13687826920100138202160/	vim移动光标命令
+
+http://blog.csdn.net/zhoubl668/article/details/3952967	makefile
+
+http://hi.baidu.com/suofang/item/6b8399e53504970d65db00f2	linux 下source、sh、bash、./执行脚本的区别
+
+http://www.boyunjian.com/javadoc/org.codehaus.izpack/izpack-api/5.0.0-beta11/_/com/izforge/izpack/api/data/Blockable.html	IZPACK API
+
+http://jingyan.baidu.com/article/9989c74605e747f648ecfe34.html	扩大虚拟机硬盘容量
+
+http://www.iitshare.com/under-the-cmd-compile-the-java.html	
+
+http://hi.baidu.com/ini_always/item/92d8428c13c7a3c1b1715491		java含第三方jar包编译
+
+http://developer.51cto.com/art/201209/357217.htm	
+
+
+http://www.blogjava.net/shiliqiang/articles/287920.html		JNI(Java Native Interface)
+
+http://zhidao.baidu.com/link?url=4cgHe8NYo16dXJD5Cr6WZ3Rtsz9p6cX--TkAgXzyUVmcrErchHqhecCWG5xLGi4TAF6wARwiW-1tn1FjBiJ60a		java中多态（父子类相互调用）
+
+http://zhidao.baidu.com/link?url=RRy_ChtH01kPYa7VcWUwXEfCu15HYEoL5i-_zcFrOgdB7jHzZtM3iM2miSNWTmW5LwXSjFOLMXvobi8hl4RaB_		java中@Override作用
+http://zhidao.baidu.com/link?url=Cpqsgx6wO4c6UcWgDhfDsInG8C1a_bofmxMcmYUwRemIsN_kdGz2_C28IC1mtABKHsBm2qwrqvOHdRDeHxhpJa		java中super的用法
+
+http://lpy999.blog.163.com/blog/static/1173720612011820104851387/   c++编译后的文件在windows和linux中作用
+
+http://wenku.baidu.com/link?url=nFgq7cnuy7X6xxp-hzOlj-5qWFF3PxSo88cAi3uQPo5QGMKnV8bDwdV6KrKus2qy6ksIs4tFXbuaSR3HTgHH3fuMkRHzrYiChIgbERwTbpq	怎样将java程序打成exe文件运行在无java环境的机器上
+
+http://wenku.baidu.com/link?url=ztRuBpm-5B6XcYhdoNDivfiRV2247djrBbl1ZlqHINc3Een-vveQAmBKqzZaqzv8BJBsecbr7mw4r3LHZiIUjjY5OlzziSGrjzKc2BBOlVG	sql中join
+
+http://blog.sina.com.cn/s/blog_7195909a0100zi7i.html	linux系统编译C++程序时头文件和库文件搜索路径
+
+http://blog.csdn.net/suwei19870312/article/details/7873777	g++编译时定义宏参数
+
+http://blog.csdn.net/topwqp/article/details/8595936	java、javaw、javaws区别
+
+http://www.cnblogs.com/cy163/archive/2009/03/12/1409434.html		 GCC 命令行详解 -L 指定库的路径 -l 指定需连接的库名
+
+http://samson7b.iteye.com/blog/1570492		环境变量，include搜索路径，lib库搜索路径
+
+http://www.1keydata.com/cn/sql/sql-orderby.php		SQL语句的使用
+
+http://www.open-open.com/lib/view/open1328059700311.html		UML类图几种关系的总结
+http://blog.csdn.net/sunnylgz/article/details/8525287
+http://wenku.baidu.com/link?url=fsxRxMG-3uv77BdNx8Xt_NSD8078h6-_awVVztYj-8cT8wo0TL8Un6xAJnJdzWdLUDV9gN4omAllPqgktq34yG-vdf9ZL1OUH-68aHjpZoy
+
+http://blog.csdn.net/feixiaoxing/article/category/935718		
+http://blog.chinaunix.net/uid-24919665-id-2689939.html				多线程编程
+http://www.cnblogs.com/BiffoLee/archive/2011/11/18/2254540.html
+
+http://www.cnblogs.com/TianFang/archive/2013/02/04/2891538.html			boost库中split函数
+
+http://www.cnblogs.com/nzbbody/archive/2012/09/06/2673127.html			同步异步多线程
+
+http://kb.cnblogs.com/page/105657/
+http://www.cnblogs.com/diyunpeng/archive/2011/06/07/2074059.html		Spin lock（自旋锁）
+
+http://www.clonegoogle.com/?gws_rd=ssl			谷歌
+
+http://blog.csdn.net/yaoyonglei/article/details/4975469		设计相关
+
+http://www.cnblogs.com/rosesmall/archive/2012/04/12/2444431.html		gdb调试打印
+
+http://dongxicheng.org/mapreduce-nextgen/understand-yarn-container-concept/
+http://dongxicheng.org/mapreduce-nextgen/nextgen-mapreduce-introduction/		yarn container
+
+
+http://blog.csdn.net/skywalker_only/article/details/41351147		
+http://blog.csdn.net/jiedushi/article/details/7920455				yarn资源调度和队列
+http://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html
+
+http://jbm3072.iteye.com/blog/1088102		java实现自定义RPC
+
+http://www.linuxidc.com/Linux/2014-03/98978.htm			Hadoop生态上几个技术的关系与区别：hive、pig、hbase 关系与区别
+
+http://my.oschina.net/yangzhiyuan/blog/228362			
+http://wenku.baidu.com/link?url=pV0NMYjNQwoY1O_qUbmWPNDYPqI4VOLFDSJAuomModxNJcaOETU6-ikfHVh7LFsqNYZJgNMCqmeY-8dSDvLWp4eZbUEz6aC_jYto5y866D3
+http://blog.csdn.net/wulantian/article/details/38111671
+http://sishuok.com/forum/blogPost/list/6221.html
+http://blog.chinaunix.net/uid-451-id-3143781.html					Hive安装与配置
+http://www.aboutyun.com/thread-7794-1-1.html
+http://www.rigongyizu.com/hive-install-configuration/
+http://www.aboutyun.com/thread-7548-1-1.html
+http://blog.csdn.net/lalaguozhe/article/details/10062619
+http://www.cnblogs.com/liutoutou/p/3894500.html
+http://www.tuicool.com/articles/M3MFJr
+http://dongxicheng.org/mapreduce-nextgen/hadoop-yarn-configurations-capacity-scheduler/
+
+http://www.d1net.com/bigdata/news/336455.html			一文教你看懂大数据的技术生态圈:Hadoop,hive,spark
+
+http://blog.csdn.net/lifuxiangcaohui/article/details/40588929		Hive四种数据导入方式
+
+http://www.csdn.net/article/2015-04-24/2824545			Hive on Spark解析
+
+http://thrift.apache.org/		thrift
+
+http://siberiawolf.com/free_programming/index.html		免费的编程中文书籍索引
+
+http://www.cnblogs.com/ggjucheng/archive/2011/12/18/2292089.html
+http://www.cnblogs.com/zhuyf87/archive/2012/12/29/2839378.html			c++异常处理机制
+http://www.cplusplus.com/reference/exception/exception/
+
+http://blog.163.com/seven_7_one/blog/static/162606412201132615242651/
+http://bbs.csdn.net/topics/390481485							linux c++定时器使用
+http://blog.sina.com.cn/s/blog_6abf2c040101fc20.html
+
+http://blog.csdn.net/huang_xw/article/details/8457964
+http://www.cplusplus.com/reference/mutex/lock_guard/lock_guard/		boost库中lock_guard锁
+http://blog.csdn.net/menggucaoyuan/article/details/40985763
+
+http://www.bejson.com/go.html?u=http://www.bejson.com/jsoneditoronline/		语句生成执行计划
+
+http://blog.chinaunix.net/uid-23960482-id-111808.html		linux中ctrl+z和ctrl+c的区别
+
+http://www.111cn.net/sys/linux/53256.htm		Linux查看当前CPU与内存使用情况命令
+
+http://blog.itpub.net/35489/viewspace-563067/		linux系统中文件颜色意义
+
+http://www.cnblogs.com/lanxuezaipiao/archive/2012/10/21/2732871.html		Linux下ln链接命令详解
+
+http://www.it165.net/os/html/201503/12062.html																							linux下用top命令查看cpu利用率超过100%
+http://zhidao.baidu.com/link?url=tXRiRVjp9RKHYD5NCLQdF_NVflOJ139QwMw4nZwbms4HfJ624kDyQAKmnTrZZ4WECVPuheEisazJL66C0LqmUq
+
+http://www.360doc.com/content/11/1128/21/1671317_168200747.shtml		GDB多线程调试的基本命令
+
+http://www.cnblogs.com/davytitan/p/3966606.html			XSHELL下直接下载文件到本地(Windows)
+
+http://blog.chinaunix.net/uid-7451264-id-2054306.html		
+http://my.oschina.net/u/572632/blog/267471				在vim中使用cscope查找调用、定义函数和变量的地方
+http://www.huilog.com/?p=137
+
+http://www.cnblogs.com/shelvenn/p/3795916.html
+http://laokaddk.blog.51cto.com/368606/416873/			LinuX下SMB的配置
+
+http://www.cppfans.org/1566.html?replytocom=5342
+http://blog.csdn.net/pi9nc/article/details/20995817			C++开源日志库--Glog的使用
+http://www.tuicool.com/articles/Vbi6Bv
+http://tudian2007.blog.163.com/blog/static/3156641320139176563617/
+
+http://jingyan.baidu.com/album/0964eca23a5ac08285f536d9.html		锻炼
+
+http://tieba.baidu.com/p/1881961036?qq-pf-to=pcqq.group		C/C++除法实现方式及负数取模详解
+
+http://www.cnblogs.com/emanlee/p/3587571.html			linux查看系统cpu个数、核心数、线程数
+
+http://blog.chinaunix.net/uid-24774106-id-4061386.html			 Linux signal
+
+http://wenku.baidu.com/link?url=N1C8jZef0pT_1lHL9JCCTRjRFiNuQVRKLY_85AtYSYhOH3eOBIFNMwSaQWMQFAggXlxczWHxqIKucUxT2AZFnpVqHThFP9e8m6noHQhFovm
+www.kernel.org/doc/Documentation/cgroups/cgroups.txt						cgroup
+https://my.oschina.net/cloudcoder/blog/424418
+http://blog.chinaunix.net/uid-16763274-id-1990130.html
+http://book.51cto.com/art/201302/381373.htm
+http://blog.csdn.net/jk198310/article/details/9292841
+http://blog.chinaunix.net/uid-20940095-id-3294134.html
+http://www.cnblogs.com/yjf512/p/3298582.html
+
+http://my.oschina.net/alphajay/blog/28808		linux chmod和chown命令的用法
+
+http://blog.chinaunix.net/uid-25120309-id-3801250.html			
+http://www.cnblogs.com/ggjucheng/archive/2013/01/13/2858470.html		 Linux awk命令详解
+
+http://www.cnblogs.com/yjzhu/archive/2014/07/21/3858188.html
+http://jingyan.baidu.com/article/f7ff0bfc7181492e27bb1360.html				使用GitHub
+http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/00137628548491051ccfaef0ccb470894c858999603fedf000
